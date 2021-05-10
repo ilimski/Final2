@@ -1,7 +1,7 @@
 
 # FINAL2021 
 <h3>Trello</h3>
-<img src="https://github.com/ilimski/Final2/blob/master/screenshot.jpg" width="700" height="600">
+<img src="https://github.com/ilimski/Final2/blob/master/screenshot.jpg" width="900" height="600">
 <link rel="https://trello.com/b/1wRgcZS5/final-project-of-dream-team">
 <h3>Figma</h3>
 <link rel="https://www.figma.com/file/oQAtU9eQCNGmyF1s9GFA3O/Untitled?node-id=0%3A1">
@@ -14,8 +14,7 @@ Complete the puzzles by swapping places with walls and bricks. Collect all the c
 <img src="https://github.com/amoursez/final/blob/main/screenshot.png" width="700" height="600">
 
 <h1>Additional features</h1>
-<h3>Trello</h3>
-<img src="<img src="![image](https://user-images.githubusercontent.com/72801356/117595689-4e643200-b163-11eb-8a09-8e381cb3f2c9.png)" width="700" height="800">" 
+
 <h3>You can change the size of the map and whole map</h3>
 <h3>You can play until you collect all coins.You can also start the game again if you want</h3>
 
