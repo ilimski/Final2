@@ -1,7 +1,7 @@
 
 # FINAL2021 
 <h3>Trello</h3>
-<img src="https://github.com/ilimski/Final2/blob/master/screenshot.jpg" width="1000" height="500">
+<img src="https://github.com/ilimski/Final2/blob/master/screenshot.jpg" width="900" height="500">
 <link rel="https://trello.com/b/1wRgcZS5/final-project-of-dream-team">
 <h3>Figma</h3>
 <link rel="https://www.figma.com/file/oQAtU9eQCNGmyF1s9GFA3O/Untitled?node-id=0%3A1">
